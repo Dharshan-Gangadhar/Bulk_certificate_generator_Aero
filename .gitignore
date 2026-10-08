@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+*.sqlite3
+*.db
+test_certificates.db
+
+# Output
+output/
+
+# Testing
+.pytest_cache/
